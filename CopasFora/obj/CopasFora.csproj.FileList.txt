@@ -1,0 +1,11 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CopasFora.Forms.frmVinteUm.resources
+obj\Debug\CopasFora.Forms.frmCopas.resources
+obj\Debug\CopasFora.Forms.frmMDIForm.resources
+obj\Debug\CopasFora.Forms.Teste.resources
+obj\Debug\CopasFora.Properties.Resources.resources
+obj\Debug\CopasFora.csproj.GenerateResource.Cache
+bin\Debug\CopasFora.exe
+bin\Debug\CopasFora.pdb
+obj\Debug\CopasFora.exe
+obj\Debug\CopasFora.pdb

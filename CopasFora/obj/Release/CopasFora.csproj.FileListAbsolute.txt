@@ -1,0 +1,101 @@
+C:\Users\Carlos\Arquivos\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\bin\Release\CopasFora.exe
+C:\Users\Carlos\Arquivos\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\bin\Release\CopasFora.pdb
+C:\Users\Carlos\Arquivos\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Carlos\Arquivos\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmVinteUm.resources
+C:\Users\Carlos\Arquivos\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmCopas.resources
+C:\Users\Carlos\Arquivos\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmMDIForm.resources
+C:\Users\Carlos\Arquivos\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.Teste.resources
+C:\Users\Carlos\Arquivos\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Properties.Resources.resources
+C:\Users\Carlos\Arquivos\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.csproj.GenerateResource.Cache
+C:\Users\Carlos\Arquivos\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.exe
+C:\Users\Carlos\Arquivos\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.pdb
+D:\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.exe
+D:\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.pdb
+D:\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\bin\Release\CopasFora.exe
+D:\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\bin\Release\CopasFora.pdb
+D:\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\ResolveAssemblyReference.cache
+D:\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmVinteUm.resources
+D:\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmCopas.resources
+D:\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmMDIForm.resources
+D:\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.Teste.resources
+D:\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Properties.Resources.resources
+D:\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.csproj.GenerateResource.Cache
+E:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.exe
+E:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.pdb
+E:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\bin\Release\CopasFora.exe
+E:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\bin\Release\CopasFora.pdb
+E:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\ResolveAssemblyReference.cache
+E:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmVinteUm.resources
+E:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmCopas.resources
+E:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmMDIForm.resources
+E:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.Teste.resources
+E:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Properties.Resources.resources
+E:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\ResGen.read.1.tlog
+E:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\ResGen.write.1.tlog
+D:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.exe
+D:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.pdb
+D:\poeta\Dados_320Gb\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.exe
+D:\poeta\Dados_320Gb\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.pdb
+D:\poeta\Dados_320Gb\Desenv\JogoCartas\Copas\CopasFora\CopasFora\bin\Release\CopasFora.exe
+D:\poeta\Dados_320Gb\Desenv\JogoCartas\Copas\CopasFora\CopasFora\bin\Release\CopasFora.pdb
+D:\poeta\Dados_320Gb\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\ResolveAssemblyReference.cache
+D:\poeta\Dados_320Gb\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmVinteUm.resources
+D:\poeta\Dados_320Gb\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmCopas.resources
+D:\poeta\Dados_320Gb\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmMDIForm.resources
+D:\poeta\Dados_320Gb\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.Teste.resources
+D:\poeta\Dados_320Gb\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Properties.Resources.resources
+D:\poeta\Dados_320Gb\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\ResGen.read.1.tlog
+D:\poeta\Dados_320Gb\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\ResGen.write.1.tlog
+C:\Users\Carlos Eduardo\Desktop\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.exe
+C:\Users\Carlos Eduardo\Desktop\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.pdb
+C:\Users\Carlos Eduardo\Desktop\Desenv\JogoCartas\Copas\CopasFora\CopasFora\bin\Release\CopasFora.exe
+C:\Users\Carlos Eduardo\Desktop\Desenv\JogoCartas\Copas\CopasFora\CopasFora\bin\Release\CopasFora.pdb
+C:\Users\Carlos Eduardo\Desktop\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Carlos Eduardo\Desktop\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmVinteUm.resources
+C:\Users\Carlos Eduardo\Desktop\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmCopas.resources
+C:\Users\Carlos Eduardo\Desktop\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmMDIForm.resources
+C:\Users\Carlos Eduardo\Desktop\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.Teste.resources
+C:\Users\Carlos Eduardo\Desktop\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Properties.Resources.resources
+C:\Users\Carlos Eduardo\Desktop\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\ResGen.read.1.tlog
+C:\Users\Carlos Eduardo\Desktop\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\ResGen.write.1.tlog
+D:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\bin\Release\CopasFora.exe
+D:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\bin\Release\CopasFora.pdb
+D:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmVinteUm.resources
+D:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmCopas.resources
+D:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmMDIForm.resources
+D:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Forms.Teste.resources
+D:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.Properties.Resources.resources
+D:\Desenv\JogoCartas\Copas\CopasFora\CopasFora\obj\Release\CopasFora.csproj.GenerateResource.Cache
+D:\Labs\CopasFora\CopasFora\bin\Release\CopasFora.exe
+D:\Labs\CopasFora\CopasFora\bin\Release\CopasFora.pdb
+D:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmVinteUm.resources
+D:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmCopas.resources
+D:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmMDIForm.resources
+D:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.Forms.Teste.resources
+D:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.Properties.Resources.resources
+D:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.csproj.GenerateResource.Cache
+D:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.exe
+D:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.pdb
+D:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.csprojResolveAssemblyReference.cache
+H:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.exe
+H:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.pdb
+H:\Labs\CopasFora\CopasFora\bin\Release\CopasFora.exe
+H:\Labs\CopasFora\CopasFora\bin\Release\CopasFora.pdb
+H:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.csprojResolveAssemblyReference.cache
+H:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmVinteUm.resources
+H:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmCopas.resources
+H:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmMDIForm.resources
+H:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.Forms.Teste.resources
+H:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.Properties.Resources.resources
+H:\Labs\CopasFora\CopasFora\obj\Release\CopasFora.csproj.GenerateResource.Cache
+H:\Repositories\CopasFora\CopasFora\bin\Release\CopasFora.exe
+H:\Repositories\CopasFora\CopasFora\bin\Release\CopasFora.pdb
+H:\Repositories\CopasFora\CopasFora\obj\Release\CopasFora.csprojResolveAssemblyReference.cache
+H:\Repositories\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmVinteUm.resources
+H:\Repositories\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmCopas.resources
+H:\Repositories\CopasFora\CopasFora\obj\Release\CopasFora.Forms.frmMDIForm.resources
+H:\Repositories\CopasFora\CopasFora\obj\Release\CopasFora.Forms.Teste.resources
+H:\Repositories\CopasFora\CopasFora\obj\Release\CopasFora.Properties.Resources.resources
+H:\Repositories\CopasFora\CopasFora\obj\Release\CopasFora.csproj.GenerateResource.Cache
+H:\Repositories\CopasFora\CopasFora\obj\Release\CopasFora.exe
+H:\Repositories\CopasFora\CopasFora\obj\Release\CopasFora.pdb

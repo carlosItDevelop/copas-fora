@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CopasFora">
+</Property><Property Name="Solution File" Value="C:\Users\Carlos\Arquivos\Desenv\Ponto_Net\JogoCartas\Copas\CopasFora\CopasFora.sln">
+</Property><Property Name="Date" Value="terça-feira, 26 de agosto de 2008">
+</Property><Property Name="Time" Value="20:18">
+</Property></Properties><Event ErrorLevel="0" Project="CopasFora" Source="CopasFora\CopasFora.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CopasFora" Source="CopasFora\CopasFora.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="CopasFora.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CopasFora.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CopasFora" Source="CopasFora\CopasFora.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
